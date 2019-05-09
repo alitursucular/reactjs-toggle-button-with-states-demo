@@ -5,4 +5,4 @@ For the blog post of this repo please visit: https://alitursucular.github.io/rea
 
 ---
 
-Note: Please see the master branch of this repository to view the code.
+Note: The source code is in the _master branch_ while, the build code is in _gh-pages_.
