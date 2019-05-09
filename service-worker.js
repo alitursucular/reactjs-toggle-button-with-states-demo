@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reactjs-toggle-button-with-states-demo/precache-manifest.031c025bbf2c5282aa05309ac892bbf5.js"
+  "/reactjs-toggle-button-with-states-demo/precache-manifest.ad94bf9261852391179ae26188d01acc.js"
 );
 
 workbox.clientsClaim();

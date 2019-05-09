@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/reactjs-toggle-button-with-states-demo/static/js/runtime~main.138e914f.js"
   },
   {
-    "revision": "1fb04dabc2152f80f06e",
+    "revision": "8a5a875cca02cd4ea8a4",
     "url": "/reactjs-toggle-button-with-states-demo/static/js/main.07e998b6.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/reactjs-toggle-button-with-states-demo/static/js/2.4e81ba5b.chunk.js"
   },
   {
-    "revision": "1fb04dabc2152f80f06e",
-    "url": "/reactjs-toggle-button-with-states-demo/static/css/main.2c0e9125.chunk.css"
+    "revision": "8a5a875cca02cd4ea8a4",
+    "url": "/reactjs-toggle-button-with-states-demo/static/css/main.003679d4.chunk.css"
   },
   {
-    "revision": "6c8c6a32877858d169fde179b95dd803",
+    "revision": "3c5a46638452bea35bad0c705861198d",
     "url": "/reactjs-toggle-button-with-states-demo/index.html"
   }
 ];
